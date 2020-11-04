@@ -28,7 +28,7 @@ const c = (_this) => {
 
 <img src="https://user-images.githubusercontent.com/579/98151375-e9aede80-1e84-11eb-80f3-06cb9468c6f3.jpg" width="400">
 
-As a loop.
+As a functional loop.
 
 ```js
 // Avijjā (Ignorance)
